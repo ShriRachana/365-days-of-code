@@ -10,7 +10,7 @@ Expectations
   Complete 1 web course track every month - Example : codeschool HTML track ; CodingDojo Web Technologies track 
   Tweet progress everyday 
   Build everyday, debugging or learning time does not count. 
-  /*Reason for this, when you are watching a video tutorial, it looks like you get what the concept is. However, only when you apply that   concept do you reaclly understand if you understand how to and when to use it */
+  /*Reason for this, when you are watching a video tutorial, it looks like you get what the concept is. However, only when you apply that concept do you reaclly understand if you understand how to and when to use it */
   Minimum 1 hour a day. 
   Skip a day - then you have to add that to the end of challenge to finish it.
   Skip more than a 1 day at a time, restart the counter and start from day 1 of 365. 
