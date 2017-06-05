@@ -1,5 +1,5 @@
 
-# I've commited to **#365DaysOfCode** as a part of building a habbit to code and put in a good amount of effort. 
+# I've committed to **#365DaysOfCode** as a part of building a habit to code and put in a good amount of effort. 
 
 # Reason : 
   * Forming a habbit takes ~ **33 days**. This commitment will test your motivation. 
