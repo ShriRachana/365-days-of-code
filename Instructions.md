@@ -2,10 +2,10 @@
 #I've commited to **#365DaysOfCode** as a part of building a habbit to code and put in a good amount of effort. 
 
 #Reason : 
-**It takes about 33 days to form a habbit, however when you commit for any entire year. 
-**You will either grow to love it or hate it. This is an indicator of whether you can do this the rest of your life. 
+*It takes about 33 days to form a habbit, however when you commit for any entire year. 
+*You will either grow to love it or hate it. This is an indicator of whether you can do this the rest of your life. 
 
-##Expectations : ##
+#Expectations : 
   *Log progress on Github/Website(your own website)
   */*My progress online : (http://http://365daysofcoding.com/) */
   *Complete 1 web course track every month - Example : codeschool HTML track ; CodingDojo Web Technologies track 
